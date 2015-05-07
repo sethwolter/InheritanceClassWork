@@ -1,0 +1,6 @@
+C:\Work\Class Work\WeekThreeClass\InheritanceShapesProject\InheritanceShapesProject\bin\Debug\InheritanceShapesProject.exe.config
+C:\Work\Class Work\WeekThreeClass\InheritanceShapesProject\InheritanceShapesProject\obj\Debug\InheritanceShapesProject.csprojResolveAssemblyReference.cache
+C:\Work\Class Work\WeekThreeClass\InheritanceShapesProject\InheritanceShapesProject\bin\Debug\InheritanceShapesProject.exe
+C:\Work\Class Work\WeekThreeClass\InheritanceShapesProject\InheritanceShapesProject\bin\Debug\InheritanceShapesProject.pdb
+C:\Work\Class Work\WeekThreeClass\InheritanceShapesProject\InheritanceShapesProject\obj\Debug\InheritanceShapesProject.exe
+C:\Work\Class Work\WeekThreeClass\InheritanceShapesProject\InheritanceShapesProject\obj\Debug\InheritanceShapesProject.pdb
